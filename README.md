@@ -22,7 +22,7 @@ O foco deste projeto foi:
 
 ## 📷 Preview
 
-(Adicione uma imagem do projeto)
+![Print do projeto](imagens/readme.png)
 
 ## 💻 Como rodar
 
