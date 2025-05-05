@@ -18,14 +18,8 @@ O foco deste projeto foi:
 
 ## 🔗 Visualização
 
-(Adicione aqui o link caso publique no GitHub Pages)
+https://viniciosros4.github.io/Clone-da-Pagina-Inicial-do-Spotify/
 
 ## 📷 Preview
 
 ![Print do projeto](imagens/readme.png)
-
-## 💻 Como rodar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/spotify-clone.git
